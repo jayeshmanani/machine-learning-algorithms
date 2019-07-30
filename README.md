@@ -1,5 +1,5 @@
-# machine-learning-algorithms
-Here in this repo I have demonstrated the implementation of the various machine learning algorithms which are used which some examples.
+# Machine Learning Algorithms
+Here in this repo I have demonstrated the implementation of the various machine learning algorithms which are used for achieving various tasks with some example.
 
 # 1. KNN Algorithm (K Nearest Neighbor algorithm) 
 This is the algorithm which is lazy loading algorithm. Which is used for clustering the dataset based on nearest neighbours. K stands for instances we can use for clustering the particular value according to lowest distance from the instance. It will be also use for many other applications too. We can use it for classification task too. 
